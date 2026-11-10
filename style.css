@@ -1,3 +1,9 @@
+.hobby {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
 p{
   background-color:orange;
   font-weight: bold;
