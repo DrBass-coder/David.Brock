@@ -1,0 +1,13 @@
+p{
+  background-color:orange;
+  font-weight: bold;
+  text-color: rgb(0, 0, 0);
+}
+
+.blocks {
+      color:red;
+      display:flex;
+      width:300px;
+      justify-content: center;
+     
+   }   
