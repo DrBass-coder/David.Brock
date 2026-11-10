@@ -4,12 +4,6 @@
     margin-bottom: 20px;
 }
 
-p{
-  background-color:orange;
-  font-weight: bold;
-  text-color: rgb(0, 0, 0);
-}
-
 .blocks {
     display: block;
     width: 200px;
@@ -18,3 +12,4 @@ p{
 img {
   width: 500px;
   height: 500px;
+}
