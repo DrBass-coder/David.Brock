@@ -8,4 +8,7 @@ p{
     display: block;
     width: 300px;
     margin: 0 auto;
-}   
+}  
+img {
+  width: 500px;
+  height: 500px;
