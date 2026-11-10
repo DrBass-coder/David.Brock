@@ -5,9 +5,7 @@ p{
 }
 
 .blocks {
-      color:red;
-      display:flex;
-      width:300px;
-      justify-content: center;
-     
-   }   
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}   
