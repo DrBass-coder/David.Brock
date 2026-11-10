@@ -1,9 +1,9 @@
-.fruit {
-    text-align: left;
-    font-size: 18px;
-    margin-bottom: 20px;
+p{
+  background-color: orange;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
 }
-
 .blocks {
     display: block;
     width:200px;
